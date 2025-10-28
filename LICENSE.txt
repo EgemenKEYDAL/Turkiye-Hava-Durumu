@@ -1,0 +1,39 @@
+🇹🇷 Hava Durumu TR - Lisans Metni (Güncellenmiş)
+Hava Durumu TR - Lisans
+
+Telif Hakkı (Copyright) (c) 2025 Egemen KEYDAL
+
+Bu lisans metni, Hava Durumu TR yazılımının (kaynak kod, API'ler, veriler ve ilgili hizmetler dahil) kullanımına ilişkin koşulları belirler.
+
+İşbu belgeyle, herhangi bir kişiye, bu yazılımı yalnızca kişisel veya eğitim amaçlı kullanmak, kopyalamak, değiştirmek ve dağıtmak için ücretsiz izin verilmektedir.
+
+Bu izin, aşağıdaki koşulların tamamının sağlanması şartıyla geçerlidir:
+
+Yazılım ticari amaçlarla KULLANILAMAZ. Ticari amaç, doğrudan veya dolaylı olarak para kazanma, gelir elde etme, ürün/hizmet satışı veya şirket içi iş süreçlerinde kullanma dahil ancak bunlarla sınırlı olmamak üzere her türlü ticari faaliyeti kapsar.
+
+"Egemen KEYDAL" adı, kod içerisinde ve yapılan her türlü dağıtımda açıkça korunmalıdır.
+
+Hizmet Kesintisi ve API Durdurma Hakkı: Lisans sahibi (Egemen KEYDAL), önceden bildirimde bulunmaksızın ve herhangi bir yükümlülük altına girmeksizin, yazılıma erişim sağlayan API hizmetini ve/veya ilişkili diğer tüm hizmetleri (veri akışı, site yayını vb.) istediği zaman ve kalıcı olarak sonlandırma hakkını açıkça saklı tutar. Kullanıcılar, bu tür bir kesintiden kaynaklanan hiçbir zarar veya kayıp için talepte bulunmayacaklarını kabul ederler.
+
+Lisansın İptali: Bu lisansın koşullarından herhangi birinin ihlal edilmesi durumunda, Egemen KEYDAL lisansı derhal ve bildirim yapmaksızın iptal etme hakkına sahiptir.
+
+YAZILIM "OLDUĞU GİBİ" SAĞLANMIŞTIR, TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME GARANTİLERİ DAHİL OLMAK ÜZERE, AÇIK VEYA ZIMNİ HİÇBİR TÜRDE GARANTİ VERİLMEZ. YAZARLAR VEYA TELİF HAKKI SAHİPLERİ, HİÇBİR DURUMDA HERHANGİ BİR İDDİA, ZARAR VEYA BAŞKA BİR YÜKÜMLÜLÜKTEN SORUMLU DEĞİLDİR.
+
+🇬🇧 Weather TR - License Text (Updated)
+Weather TR - License
+
+Copyright (c) 2025 Egemen KEYDAL
+
+This license defines the terms for the use of the Weather TR software (including source code, APIs, data, and associated services).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software to use, copy, modify, and distribute the software for personal or educational purposes only, provided that the following conditions are met:
+
+The software shall NOT be used for commercial purposes. Commercial purposes include, but are not limited to, any form of commercial activity such as direct or indirect monetization, revenue generation, sales of products/services, or use in internal corporate processes.
+
+The name "Egemen KEYDAL" must be prominently retained in the code and any subsequent distributions.
+
+Right to Service Termination and API Shutdown: The Licensor (Egemen KEYDAL) expressly reserves the right to permanently terminate the API service and/or all other associated services (data feeds, site publishing, etc.) that grant access to the software at any time and without prior notice or incurring any liability. Users agree that they shall not claim any damages or losses resulting from such a shutdown.
+
+License Termination: In the event of a breach of any of the terms of this license, Egemen KEYDAL has the right to immediately terminate the license without notification.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
