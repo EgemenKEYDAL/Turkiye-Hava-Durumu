@@ -1,4 +1,4 @@
-# 🌤️ Hava Durumu TR
+# 🌤️ [Hava Durumu](https://www.egemenkeydal.com/scripts/turkiye-hava-durumu) TR
 
 Bu proje, Türkiye genelindeki şehirler için güncel ve 7 günlük hava durumu tahminlerini sağlayan bir PHP tabanlı web uygulamasıdır. Modern ve responsive tasarımıyla kullanıcı dostu bir arayüz sunar.
 
